@@ -45,8 +45,8 @@
   </Networking>
   <Data>
       <Volume>
-      <HostDir></HostDir>
-      <ContainerDir>/foobar</ContainerDir>
+      <HostDir>/mnt/user/appdata/kumojs</HostDir>
+      <ContainerDir>/config</ContainerDir>
       <Mode>rw</Mode>
       </Volume>
       <Volume>
